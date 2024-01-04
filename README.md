@@ -8,7 +8,6 @@ Welcome to my profile, I hope you can find something interesting here.
 
 ## Contact Me
 
-[![Static Badge](https://img.shields.io/badge/Dhyana_Iris-DIO-blue?style=for-the-badge&labelColor=%23427dbf&color=%23ea4e5f)](https://web.dio.me/users/dhyanairis?tab=achievements)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhyana-iris-peruchi-bardini/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhyanairis@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DhyanaIris)
