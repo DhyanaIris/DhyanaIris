@@ -19,8 +19,8 @@ Welcome to my profile, I hope you can find something interesting here.
 
 ## My Stats
 
-<div  align="inline_block">
-  <img width=45%  src="https://github-readme-stats.vercel.app/api?username=DhyanaIris&theme=dracula&show_icons=true&icon_color=6fc4e2"/>
+<div display="flex" >
+  <img width=45% src="https://github-readme-stats.vercel.app/api?username=DhyanaIris&theme=dracula&show_icons=true&icon_color=6fc4e2"/>
   <img width=40% src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=DhyanaIris&layout=compact&bg_color=282A36&title_color=dd6387&text_color=FFF"/>
 </div>
 
