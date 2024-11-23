@@ -14,7 +14,7 @@ Welcome to my profile, I hope you can find something interesting here.
 
 ## Skills
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,react,mongodb,git,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,angular,react,mongodb,git,vscode,idea)](https://skillicons.dev)
 
 ## My Stats
 
